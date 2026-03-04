@@ -1,7 +1,7 @@
 {
   "name": "@adametherzlab/sensor-smooth",
   "version": "0.1.0",
-  "description": "Signal smoothing library — moving average, EMA, Kalman filter for sensor data",
+  "description": "Signal smoothing library \u2014 moving average, EMA, Kalman filter for sensor data",
   "type": "module",
   "main": "src/index.ts",
   "module": "src/index.ts",
@@ -23,8 +23,6 @@
     "typescript": "^5.5.0"
   },
   "keywords": [
-    "typescript",
-    "bun",
     "typescript",
     "bun",
     "signal-processing",
